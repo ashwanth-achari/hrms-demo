@@ -1,0 +1,8 @@
+const ROLES = {
+  ADMIN: "ADMIN",
+  SENIOR_MANAGER: "SENIOR_MANAGER",
+  HR_RECRUITER: "HR_RECRUITER",
+  EMPLOYEE: "EMPLOYEE",
+};
+
+module.exports = { ROLES };
